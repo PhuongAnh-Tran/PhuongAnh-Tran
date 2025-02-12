@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I built **[Sunset Hues](https://sunset-hues.onrender.com/)** 🌅—an AI-powered sunset predictor that generates poetic descriptions!  
 
 ### 🔧 Tech Stack
-**Languages:** Python, JavaScript, Java  
+**Languages:** Python, HTML/CSS, JavaScript, Java  
 **Frameworks & Tools:** React, Node.js, Express, OpenAI API, Selenium  
 
 <!---
