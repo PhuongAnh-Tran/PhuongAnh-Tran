@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Anh! 🚀
 
-💻 **Software Developer** | 🎨 **Creative Coder** | 🔒 **Cybersecurity Enthusiast**  
+💻 **Software Developer** 
 
-- 👀 I’m interested in **AI, cybersecurity & full-stack development**  
-- 🌱 I’m currently learning **LeetCode, cybersecurity, and UI/UX design**  
+- 👀 I’m interested in **AI & full-stack development**  
+- 🌱 I’m currently learning **LeetCode and UI/UX design**  
 - 💞️ I’m looking to collaborate on **open-source projects, AI-driven tools, & creative coding experiments**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/phuong-anh-tran-aba5a4206/) | [Portfolio]([your-portfolio-link.com](https://phuonganh-tran.github.io/))  
 - 😄 Pronouns: **She/Her**  
@@ -11,7 +11,7 @@
 
 ### 🔧 Tech Stack
 **Languages:** Python, HTML/CSS, JavaScript, Java  
-**Frameworks & Tools:** React, Node.js, Express, OpenAI API, Selenium  
+**Frameworks & Tools:** React, Node.js, Express, OpenAI API
 
 <!---
 PhuongAnh-Tran/PhuongAnh-Tran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
