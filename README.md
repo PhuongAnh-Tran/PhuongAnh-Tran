@@ -2,7 +2,7 @@
 
 💻 **Software Developer** 
 
-- 👀 I’m interested in **AI & full-stack development**  
+- 👀 I’m interested in **full-stack development**  
 - 🌱 I’m currently learning **LeetCode and UI/UX design**  
 - 💞️ I’m looking to collaborate on **open-source projects, AI-driven tools, & creative coding experiments**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/phuong-anh-tran-aba5a4206/) | [Portfolio](https://phuonganh-tran.github.io/)  
